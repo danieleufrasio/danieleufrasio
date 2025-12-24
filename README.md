@@ -40,6 +40,7 @@
 
 ![Snake animation](https://raw.githubusercontent.com/danieleufrasio/danieleufrasio/output/snake.svg)
 
+
 ---
 
 ## 🧑‍💻 Sobre mim
