@@ -33,8 +33,12 @@
 
 ---
 
-### 🎧 Sobre mim
+## 🧑‍💻 Sobre mim
 
-✨ Amo criar interfaces bonitas  
-💡 Sempre estudando novas tecnologias  
-🔥 Foco em front-end, back-end e projetos web
+- Desenvolvedor Full Stack apaixonado por tecnologia, neon, futurismo e boas ideias.
+- Stack: PHP, Laravel, JavaScript, C, C++, Python, Java, HTML5, CSS3, Bootstrap, Flutter, APIs, Git, AWS.
+- Bacharel em Análise e Desenvolvimento de Sistemas.
+- Pós-graduação em Desenvolvimento Mobile.
+- Pós-graduação em Neuropsicologia e Dificuldades de Aprendizagem.
+- Licenciatura em Sociologia.
+- Graduando em Ciências Contábeis.
