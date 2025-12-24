@@ -1,19 +1,39 @@
-## Hi there 👋
+<h1 align="center">🌌 Daniel Eufrasio 👾</h1>
 
-<!--
-**danieleufrasio/danieleufrasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor apaixonado por tecnologia, neon, futurismo e boas ideias 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danieleufrasio&show_icons=true&theme=synthwave)
+### 🎛️ Stats
 
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danieleufrasio&show_icons=true&theme=synthwave&hide_border=true)
 
+---
+
+### 🌇 Tecnologias que uso
+
+<div align="center">
+  
+![HTML](https://img.shields.io/badge/HTML5-ff00ff?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-ff0080?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f72585?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-7209b7?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-560bad?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+---
+
+### 🐍 Snake
+
+![Snake animation](https://github.com/danieleufrasio/danieleufrasio/blob/output/dist/snake.svg)
+
+---
+
+### 🎧 Sobre mim
+
+✨ Amo criar interfaces bonitas  
+💡 Sempre estudando novas tecnologias  
+🔥 Foco em front-end, back-end e projetos web
