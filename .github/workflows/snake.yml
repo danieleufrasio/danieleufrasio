@@ -19,8 +19,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           width: 900
           height: 120
+          # cobra em roxo/neon
           color_snake: "#ff00ff"
-          color_dots: "#161b22,#0e4429,#006d32,#26a641,#39d353"
+          # fundo bem escuro + tons de verde (contribuições)
+          color_dots: "#0d1117,#003820,#005826,#1f6f3f,#2ea043"
           outputs: |
             dist/snake.svg
 
