@@ -3,7 +3,6 @@
 <p align="center">
   Desenvolvedor Full Stack, criador de simulados e ferramentas de estudo que aproximam tecnologia, educação e impacto positivo no planeta 🚀
 </p>
----
 
 ### 🧠 Tech Stack & Skills
 
