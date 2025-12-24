@@ -37,7 +37,7 @@
 
 - Desenvolvedor Full Stack apaixonado por tecnologia, neon, futurismo e boas ideias.
 - Stack: PHP, Laravel, JavaScript, C, C++, Python, Java, HTML5, CSS3, Bootstrap, Flutter, APIs, Git, AWS.
-- Bacharel em Análise e Desenvolvimento de Sistemas.
+- Bacharel em Análise e Desenvolvimento de Sistemas e Desenvolvimento Back-end.
 - Pós-graduação em Desenvolvimento Mobile.
 - Pós-graduação em Neuropsicologia e Dificuldades de Aprendizagem.
 - Licenciatura em Sociologia.
