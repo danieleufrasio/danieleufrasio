@@ -2,30 +2,23 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"     # roda todo dia à meia-noite
-  workflow_dispatch:        # permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-
-          # 🎨 Cores estilo synthwave 84
-          snake_color: "#ff00ff"
-          apple_color: "#00ffff"
-          background_color: "#0a0025"
-
           outputs: |
             dist/snake.svg
-            dist/snake.gif
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
