@@ -3,13 +3,6 @@
 <p align="center">
   Desenvolvedor Full Stack, criador de simulados e ferramentas de estudo que aproximam tecnologia, educação e impacto positivo no planeta 🚀
 </p>
-
----
-
-### 🎛️ Stats
-
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danieleufrasio&show_icons=true&theme=synthwave&hide_border=true)
-
 ---
 
 ### 🧠 Tech Stack & Skills
