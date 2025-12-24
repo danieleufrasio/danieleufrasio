@@ -1,14 +1,14 @@
 <h1 align="center">🌌 Daniel Eufrásio 👾</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack focado em Melhorar o planeta!!! 🚀
+  Desenvolvedor Full Stack focado em melhorar o aprendizagem de outras pessoas e melhorar o planeta🚀
 </p>
 
 ---
 
 ### 🎛️ Stats
 
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danieleufrasio&show_icons=true&theme=synthwave&hide_border=true)
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danieleufrasio&show_icons=true&theme=synthwave&hide_border=true) [web:1]
 
 ---
 
@@ -36,9 +36,17 @@
 
 ---
 
+### 🧪 Conteúdo que crio
+
+- Simulados focados em AWS Cloud, incluindo provas no estilo Cloud Practitioner, disponíveis em repositórios públicos.
+- Flashcards de AWS Cloud e outros materiais de estudo para acelerar a memorização de serviços e arquiteturas.
+- Simulados e questionários para concursos e certificações, com foco em prática intensiva e revisão rápida. [web:1]
+
+---
+
 ### 🐍 Snake
 
-![Snake animation](https://raw.githubusercontent.com/danieleufrasio/danieleufrasio/output/dist/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/danieleufrasio/danieleufrasio/output/dist/snake.svg) [web:1]
 
 ---
 
@@ -51,3 +59,4 @@
 - Pós-graduação em Neuropsicologia e Dificuldades de Aprendizagem, conectando tecnologia e educação.
 - Licenciatura em Sociologia, com olhar crítico para impacto social da tecnologia.
 - Graduando em Ciências Contábeis, integrando tecnologia, negócios e dados para soluções inteligentes.
+- Criador de simulados, flashcards e materiais interativos para AWS Cloud e concursos, aproximando teoria, prática e acessibilidade para outras pessoas desenvolvedoras. [web:1]
