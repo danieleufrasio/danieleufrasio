@@ -46,7 +46,8 @@
 
 ### 🐍 Snake
 
-![Snake animation](https://raw.githubusercontent.com/danieleufrasio/danieleufrasio/output/dist/snake.svg) [web:1]
+![Snake animation](https://raw.githubusercontent.com/danieleufrasio/danieleufrasio/output/snake.svg)
+
 
 ---
 
