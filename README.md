@@ -31,9 +31,9 @@
 
 ### 🧪 Conteúdo que crio
 
-- Simulados completos para AWS Cloud (incluindo estilo Cloud Practitioner) e outras certificações, publicados em repositórios abertos para a comunidade. [web:1]
+- Simulados completos para AWS Cloud (incluindo estilo Cloud Practitioner) e outras certificações, publicados em repositórios abertos para a comunidade. 
 - Flashcards e quizzes de AWS Cloud para acelerar a memorização de serviços, boas práticas e arquiteturas em nuvem. [web:1]
-- Simulados e questionários para concursos e tecnologia, focados em prática intensiva, revisão rápida e acessibilidade para diferentes perfis de estudantes. [web:1]
+- Simulados e questionários para concursos e tecnologia, focados em prática intensiva, revisão rápida e acessibilidade para diferentes perfis de estudantes.
 
 ---
 
@@ -45,11 +45,11 @@
 
 ## 🧑‍💻 Sobre mim
 
-- Desenvolvedor Full Stack que combina estética neon, futurismo e código limpo para criar experiências web e mobile envolventes. [web:1]
-- Atuação em back-end e front-end com PHP, Laravel, JavaScript, Node.js, Java, Python, C/C++, Flutter, HTML5, CSS3, Bootstrap, Git, AWS e integração de APIs. [web:1]
-- Bacharel em Análise e Desenvolvimento de Sistemas e Desenvolvimento Back-end, com forte base em arquitetura de software. [web:1]
-- Pós-graduação em Desenvolvimento Mobile, explorando soluções híbridas e nativas para diferentes plataformas. [web:1]
-- Pós-graduação em Neuropsicologia e Dificuldades de Aprendizagem, conectando tecnologia, cognição e inclusão educacional. [web:1]
-- Licenciatura em Sociologia, trazendo olhar crítico sobre o impacto social da tecnologia e da educação digital. [web:1]
-- Graduando em Ciências Contábeis, integrando tecnologia, negócios, finanças e dados na construção de soluções inteligentes. [web:1]
-- Criador de simulados, flashcards e materiais interativos para AWS Cloud, ANBIMA e concursos, ajudando outras pessoas a aprenderem de forma prática, visual e acessível. [web:1]
+- Desenvolvedor Full Stack que combina estética neon, futurismo e código limpo para criar experiências web e mobile envolventes. 
+- Atuação em back-end e front-end com PHP, Laravel, JavaScript, Node.js, Java, Python, C/C++, Flutter, HTML5, CSS3, Bootstrap, Git, AWS e integração de APIs.
+- Bacharel em Análise e Desenvolvimento de Sistemas e Desenvolvimento Back-end, com forte base em arquitetura de software. 
+- Pós-graduação em Desenvolvimento Mobile, explorando soluções híbridas e nativas para diferentes plataformas. 
+- Pós-graduação em Neuropsicologia e Dificuldades de Aprendizagem, conectando tecnologia, cognição e inclusão educacional. 
+- Licenciatura em Sociologia, trazendo olhar crítico sobre o impacto social da tecnologia e da educação digital. 
+- Graduando em Ciências Contábeis, integrando tecnologia, negócios, finanças e dados na construção de soluções inteligentes. 
+- Criador de simulados, flashcards e materiais interativos para AWS Cloud, ANBIMA e concursos, ajudando outras pessoas a aprenderem de forma prática, visual e acessível. 
