@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Snake animation](https://raw.githubusercontent.com/danieleufrasio/danieleufrasio/output/snake.svg)
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danieleufrasio&show_icons=true&theme=synthwave)
+
 
