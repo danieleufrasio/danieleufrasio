@@ -32,7 +32,7 @@
 ### 🧪 Conteúdo que crio
 
 - Simulados completos para AWS Cloud (incluindo estilo Cloud Practitioner) e outras certificações, publicados em repositórios abertos para a comunidade. 
-- Flashcards e quizzes de AWS Cloud para acelerar a memorização de serviços, boas práticas e arquiteturas em nuvem. [web:1]
+- Flashcards e quizzes de AWS Cloud para acelerar a memorização de serviços, boas práticas e arquiteturas em nuvem. 
 - Simulados e questionários para concursos e tecnologia, focados em prática intensiva, revisão rápida e acessibilidade para diferentes perfis de estudantes.
 
 ---
